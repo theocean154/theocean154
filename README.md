@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm John</h1>
+## Hi 👋, I'm John
 
 - I am an independent software researcher and consultant based in San Francisco, California. 
 - I am interested in 📈finance, 📂data analytics, and 💡machine learning
